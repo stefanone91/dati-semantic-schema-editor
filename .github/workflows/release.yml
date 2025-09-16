@@ -7,8 +7,6 @@ on:
 env:
   CI: true
 
-permissions: read-all
-
 jobs:
   version:
     timeout-minutes: 15
