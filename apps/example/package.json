@@ -14,7 +14,7 @@
     "dist"
   ],
   "dependencies": {
-    "@teamdigitale/schema-editor": "workspace:*",
+    "@stefanone91/schema-editor": "workspace:*",
     "ace-builds": "^1.35.0",
     "bootstrap-italia": "^2.10.0",
     "design-react-kit": "^5.2.0",

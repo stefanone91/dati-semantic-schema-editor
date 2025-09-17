@@ -1,5 +1,5 @@
-import { SchemaEditor } from '@teamdigitale/schema-editor';
-import '@teamdigitale/schema-editor/dist/style.css';
+import { SchemaEditor } from '@stefanone91/schema-editor';
+import '@stefanone91/schema-editor/dist/style.css';
 
 export function Standalone() {
   // Retrieve the 'url' query parameter from the URL

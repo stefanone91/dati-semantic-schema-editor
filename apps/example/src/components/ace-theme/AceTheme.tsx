@@ -1,5 +1,5 @@
 import AceEditor from 'react-ace';
-import { EditorThemePlugin } from '@teamdigitale/schema-editor';
+import { EditorThemePlugin } from '@stefanone91/schema-editor';
 
 import 'ace-builds/src-noconflict/mode-java';
 import 'ace-builds/src-noconflict/theme-github';

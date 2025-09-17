@@ -34,7 +34,7 @@ open http://localhost:5000
 
 ### Local Usage
 
-To use the Semantic Schema Editor all you need to do is installing the `@teamdigitale/schema-editor` plugin
+To use the Semantic Schema Editor all you need to do is installing the `@stefanone91/schema-editor` plugin
 and use the component in your application.
 
 ```typescript
@@ -45,8 +45,8 @@ import '@fontsource/titillium-web';
 
 import './App.scss';
 
-import { SchemaEditor } from '@teamdigitale/schema-editor';
-import '@teamdigitale/schema-editor/dist/style.css';
+import { SchemaEditor } from '@stefanone91/schema-editor';
+import '@stefanone91/schema-editor/dist/style.css';
 
 function App() {
   const urlParams = new URLSearchParams(window.location.search);
