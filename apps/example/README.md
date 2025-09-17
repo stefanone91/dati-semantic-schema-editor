@@ -1,3 +1,3 @@
 # Example
 
-This is a default app for testing @italia/schema-editor capabilities
+This is a default app for testing @stefanone91/schema-editor capabilities

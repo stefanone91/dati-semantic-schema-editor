@@ -1,5 +1,5 @@
-import { LayoutTypes, SchemaEditor } from '@italia/schema-editor';
-import '@italia/schema-editor/dist/style.css';
+import { LayoutTypes, SchemaEditor } from '@stefanone91/schema-editor';
+import '@stefanone91/schema-editor/dist/style.css';
 
 export function SchemaViewer() {
   // Retrieve the 'url' query parameter from the URL
